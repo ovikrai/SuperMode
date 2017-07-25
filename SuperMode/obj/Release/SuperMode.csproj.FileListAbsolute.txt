@@ -1,0 +1,16 @@
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Release\SuperMode.exe.config
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Release\SuperMode.exe
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Release\SuperMode.pdb
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\MainWindow.g.cs
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\App.g.cs
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode_MarkupCompile.cache
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode_MarkupCompile.lref
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\MainWindow.baml
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode.g.resources
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode.Properties.Resources.resources
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode.csproj.GenerateResource.Cache
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode.exe
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Release\SuperMode.pdb
+C:\Users\ovikrai\OneDrive\Ovicorp\oviapps\oviNet\WPF\SuperMode\SuperMode\bin\Release\SuperMode.exe.config
+C:\Users\ovikrai\OneDrive\Ovicorp\oviapps\oviNet\WPF\SuperMode\SuperMode\obj\Release\SuperMode.exe
+C:\Users\ovikrai\OneDrive\Ovicorp\oviapps\oviNet\WPF\SuperMode\SuperMode\obj\Release\SuperMode.pdb

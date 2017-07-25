@@ -1,0 +1,14 @@
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Debug\SuperMode.exe.config
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Debug\SuperMode.exe
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\bin\Debug\SuperMode.pdb
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.csprojResolveAssemblyReference.cache
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\MainWindow.g.cs
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\App.g.cs
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode_MarkupCompile.cache
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode_MarkupCompile.lref
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\MainWindow.baml
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.g.resources
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.Properties.Resources.resources
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.csproj.GenerateResource.Cache
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.exe
+C:\Users\ovikrai\Documents\oviapps\DOTNET\SuperMode\SuperMode\obj\Debug\SuperMode.pdb

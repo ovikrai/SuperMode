@@ -1,0 +1,28 @@
+﻿<Window x:Class="SuperMode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperMode"
+        mc:Ignorable="d" Height="300" Width="525" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="superIcon.ico">
+    <Grid Background="DodgerBlue">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="1" Grid.RowSpan="2" Content="MakeSuper" FontFamily="AR BONNIE" FontSize="56" Foreground="White"  HorizontalContentAlignment="Center" Margin="0,75,0,0"/>
+
+        <Button Grid.Column="0" Grid.Row="2" Content="Make SuperMode"   Click="MakeSuper"   Margin="30"/>
+        <Button Grid.Column="2" Grid.Row="2" Content="Delete SuperMode" Click="DeleteSuper" Margin="30"/>
+
+    </Grid>
+</Window>
