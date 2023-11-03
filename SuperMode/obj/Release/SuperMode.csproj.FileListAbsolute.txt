@@ -29,3 +29,19 @@ C:\Users\rayma\Desktop\SuperMode\SuperMode\obj\Release\SuperMode.csproj.Generate
 C:\Users\rayma\Desktop\SuperMode\SuperMode\obj\Release\SuperMode.csproj.CoreCompileInputs.cache
 C:\Users\rayma\Desktop\SuperMode\SuperMode\obj\Release\SuperMode.exe
 C:\Users\rayma\Desktop\SuperMode\SuperMode\obj\Release\SuperMode.pdb
+E:\Ovicorps Repos\SuperMode\SuperMode\bin\Release\SuperMode.exe.config
+E:\Ovicorps Repos\SuperMode\SuperMode\bin\Release\SuperMode.exe
+E:\Ovicorps Repos\SuperMode\SuperMode\bin\Release\SuperMode.pdb
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.csproj.AssemblyReference.cache
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\MainWindow.g.cs
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\App.g.cs
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode_MarkupCompile.cache
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode_MarkupCompile.lref
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\App.baml
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\MainWindow.baml
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.g.resources
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.Properties.Resources.resources
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.csproj.GenerateResource.cache
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.csproj.CoreCompileInputs.cache
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.exe
+E:\Ovicorps Repos\SuperMode\SuperMode\obj\Release\SuperMode.pdb

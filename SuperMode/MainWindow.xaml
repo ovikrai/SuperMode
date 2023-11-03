@@ -19,10 +19,11 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Label Content="SuperMode" FontFamily="NEOTERIC" FontSize="48" Foreground="White"  HorizontalContentAlignment="Center" Margin="131,90,131.4,24" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+        <Label Content="SuperMode" FontFamily="OCR A Extended" FontSize="36" Foreground="White"  HorizontalContentAlignment="Center" Margin="131,27,131,94" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+        <Label Content="Unlock a super menu in your windows desktop" FontFamily="Bahnschrift" FontSize="10" Foreground="Black"  HorizontalContentAlignment="Center" Margin="124,34,124,34" Grid.Row="1" FontWeight="Bold" Grid.ColumnSpan="3"/>
 
-        <Button Grid.Column="0" Grid.Row="2" Content="Make SuperMode"   Click="MakeSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="30"/>
-        <Button Grid.Column="2" Grid.Row="2" Content="Delete SuperMode" Click="DeleteSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="30"/>
+        <Button Grid.Column="0" Grid.Row="2" Content="UnLock"   Click="MakeSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32"/>
+        <Button Grid.Column="2" Grid.Row="2" Content="ReLock" Click="DeleteSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32"/>
 
     </Grid>
 </Window>
