@@ -4,8 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SuperMode"
-        mc:Ignorable="d" Height="300" Width="525" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="superIcon.ico">
-    <Grid Background="DodgerBlue">
+        mc:Ignorable="d" Height="300" Width="525" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="super-mode.ico">
+    <Grid Background="#18202F">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -19,11 +19,11 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Label Content="SuperMode" FontFamily="OCR A Extended" FontSize="36" Foreground="White"  HorizontalContentAlignment="Center" Margin="131,27,131,94" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
-        <Label Content="Unlock a super menu in your windows desktop" FontFamily="Bahnschrift" FontSize="10" Foreground="Black"  HorizontalContentAlignment="Center" Margin="124,34,124,34" Grid.Row="1" FontWeight="Bold" Grid.ColumnSpan="3"/>
+        <Label Content="SuperMode" FontFamily="Segoe UI Black" FontSize="40" Foreground="White"  HorizontalContentAlignment="Center" Margin="124,10,123,10" Grid.ColumnSpan="3" RenderTransformOrigin="0.508,0.317"/>
+        <Label Content="Unlock a super menu in your windows desktop" FontFamily="Cascadia Code Light" Foreground="White"  HorizontalContentAlignment="Center" Margin="54,20,53,20" Grid.Row="1" FontWeight="Bold" Grid.ColumnSpan="3" FontSize="16"/>
 
-        <Button Grid.Column="0" Grid.Row="2" Content="UnLock"   Click="MakeSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32"/>
-        <Button Grid.Column="2" Grid.Row="2" Content="ReLock" Click="DeleteSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32"/>
+        <Button Grid.Column="0" Grid.Row="2" Content="UnLock"   Click="MakeSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32" FontFamily="Segoe UI Black"/>
+        <Button Grid.Column="2" Grid.Row="2" Content="ReLock" Click="DeleteSuper" Style="{DynamicResource ResourceKey=SuperModeButtonStyle}" Margin="32" FontFamily="Segoe UI Black"/>
 
     </Grid>
 </Window>
